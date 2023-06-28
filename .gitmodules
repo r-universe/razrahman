@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IntegratedMRF"]
 	path = IntegratedMRF
 	url = https://github.com/cran/IntegratedMRF
-	shallow = true
-	registered = true
 [submodule "MultivariateRandomForest"]
 	path = MultivariateRandomForest
 	url = https://github.com/cran/MultivariateRandomForest
-	shallow = true
-	registered = true
